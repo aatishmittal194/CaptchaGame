@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaptchaGame</string>
+    <string name="captcha_answer_hint">Answer</string>
+    <string name="captcha_answer_button_text">Submit</string>
+</resources>

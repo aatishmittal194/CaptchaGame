@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "ic_1_a",
+    "difficulty": 1,
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "name": "ic_1_b",
+    "difficulty": 1,
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "name": "ic_1_c",
+    "difficulty": 1,
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "name": "ic_1_d",
+    "difficulty": 1,
+    "answer": "d"
+  },
+  {
+    "id": 5,
+    "name": "ic_1_e",
+    "difficulty": 1,
+    "answer": "e"
+  },
+  {
+    "id": 6,
+    "name": "ic_2_ab",
+    "difficulty": 2,
+    "answer": "ab"
+  },
+  {
+    "id": 7,
+    "name": "ic_2_bc",
+    "difficulty": 2,
+    "answer": "bc"
+  },
+  {
+    "id": 8,
+    "name": "ic_2_cd",
+    "difficulty": 2,
+    "answer": "cd"
+  },
+  {
+    "id": 9,
+    "name": "ic_2_de",
+    "difficulty": 2,
+    "answer": "de"
+  },
+  {
+    "id": 10,
+    "name": "ic_2_fg",
+    "difficulty": 2,
+    "answer": "fg"
+  },
+  {
+    "id": 11,
+    "name": "ic_3_cde",
+    "difficulty": 3,
+    "answer": "cde"
+  },
+  {
+    "id": 12,
+    "name": "ic_3_fgh",
+    "difficulty": 3,
+    "answer": "fgh"
+  },
+  {
+    "id": 13,
+    "name": "ic_3_ghi",
+    "difficulty": 3,
+    "answer": "ghi"
+  },
+  {
+    "id": 14,
+    "name": "ic_3_hij",
+    "difficulty": 3,
+    "answer": "hij"
+  },
+  {
+    "id": 15,
+    "name": "ic_3_ijk",
+    "difficulty": 3,
+    "answer": "ijk"
+  },
+  {
+    "id": 16,
+    "name": "ic_4_abcd",
+    "difficulty": 4,
+    "answer": "abcd"
+  },
+  {
+    "id": 17,
+    "name": "ic_4_bcde",
+    "difficulty": 4,
+    "answer": "bcde"
+  },
+  {
+    "id": 18,
+    "name": "ic_4_fghi",
+    "difficulty": 4,
+    "answer": "fghi"
+  },
+  {
+    "id": 19,
+    "name": "ic_4_ghij",
+    "difficulty": 4,
+    "answer": "ghij"
+  },
+  {
+    "id": 20,
+    "name": "ic_4_hijk",
+    "difficulty": 4,
+    "answer": "hijk"
+  },
+  {
+    "id": 21,
+    "name": "ic_5_abcde",
+    "difficulty": 5,
+    "answer": "abcde"
+  },
+  {
+    "id": 22,
+    "name": "ic_5_fghij",
+    "difficulty": 5,
+    "answer": "fghij"
+  },
+  {
+    "id": 23,
+    "name": "ic_5_ghijk",
+    "difficulty": 5,
+    "answer": "ghijk"
+  },
+  {
+    "id": 24,
+    "name": "ic_5_lmnop",
+    "difficulty": 5,
+    "answer": "lmnop"
+  },
+  {
+    "id": 25,
+    "name": "ic_5_qrstu",
+    "difficulty": 5,
+    "answer": "qrstu"
+  }
+]
